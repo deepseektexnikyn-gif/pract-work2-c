@@ -1,0 +1,5 @@
+Light;Chandelier;Living room;on;80
+Light;Night light;Bedroom;on;30
+Thermostat;Thermostat;Bedroom;on;22
+SmartSpeaker;Alice;Living room;on;60
+VacuumCleaner;Roomba;Kitchen;on;0
